@@ -246,7 +246,8 @@ function create_config( )
     "ip",
     "github",
     "filter_word",
-    "version"
+    "version",
+    "on"
     },
 	    sudo_users = {99151966},--Sudo users
     disabled_channels = {},
